@@ -1,8 +1,6 @@
 # Simple-Calendar-App
 Simple tkinter calendar app for managing To-Do events. Features visual calendar, repeat options, priority settings, completion tracking, file management, undo/redo, clipboard functions, and help menus. Stores data in JSON, supports local executables. User-friendly interface for easy event management.
 
-# Simple Calendar App
-
 This is a simple calendar application built with Python's tkinter library. It allows you to manage your To-Do events with a graphical calendar interface.
 
 ## Features
