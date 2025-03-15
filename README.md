@@ -24,6 +24,10 @@ This is a simple calendar application built with Python's tkinter library. It al
 - **Local Executable:** Can be compiled into a standalone executable for local use.
 - **JSON Data Storage:** Stores event data in JSON format.
 
+## Creation Information
+
+This project was created solely using VScode's Copilot chat GPT-4o.
+
 ![image](https://github.com/user-attachments/assets/01f27b53-f320-491a-9002-924a00e1d826)
 ![image](https://github.com/user-attachments/assets/a1d60fb8-4f50-4ed8-9818-5c9b0c1c297e)
 ![image](https://github.com/user-attachments/assets/5ad4afd3-3fe5-410d-ba11-7b1f5ac15b09)
